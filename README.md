@@ -16,4 +16,4 @@ A lightweight local security utility built using **Python** and **SQLite3** desi
 ## 🧪 Testing
 To run the automated validation tests, execute the following command in your terminal:
 ```bash
-python test_password.py
+python test_app.py
